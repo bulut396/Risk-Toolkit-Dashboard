@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+# Build-prompt file — not part of the published app
+CLAUDE_CODE_INSTRUCTIONS_dashboard.md
