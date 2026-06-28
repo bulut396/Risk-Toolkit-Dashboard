@@ -1,4 +1,4 @@
-# risk-toolkit-dashboard
+# Risk-Toolkit-Dashboard
 
 A Streamlit web dashboard that fetches live stock prices and shows a clear, beginner-friendly risk profile for any ticker.
 
